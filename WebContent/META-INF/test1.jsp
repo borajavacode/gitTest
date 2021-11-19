@@ -5,7 +5,6 @@
 <title></title>
 </head>
 <body>
-	<h1>git테스트 프로젝트</h1>
-	<hr>
+	<h1>테스트파일</h1>
 </body>
 </html>
